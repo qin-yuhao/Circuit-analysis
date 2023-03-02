@@ -1,5 +1,14 @@
 import sympy
 
+# python为这些方法的实现提供了很大的遍历,
+# 如:列表就可以直接当作是一个队列或者栈,
+# 字典就能存储一张图的结构
+
+# python provides a lot of traversal for the implementation of these methods,
+
+# For example, a list can be directly thought of as a queue or stack,
+
+# A dictionary can store the structure of a picture
 
 graph = {
     'U1':['R1'],
