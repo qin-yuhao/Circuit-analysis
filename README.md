@@ -1,12 +1,25 @@
 # Circuit-analysis
-You can use this program to do some simple circuit analysis!
+我想我已经实现了最难的部分了,剩下的就是代入各种公式和用symsy来解方程了.
 
-This is my second semester in college.
-
-Actually,before that,I had built a rudimentary program that could only analyze a single loop,
-obviously,it is not enough.
+很高兴你们能改进我的代码或者完成剩下的部分
 
 
 1.
+对于电路图的存储,数据结构中的图或许是一个很好的方法,它能够完整的储存各个元件之间的关系
 
-I need a way to store the relationship between elements. There may be many big or small cycles in a circuit.
+    --------------------------------------------------------
+    |            ||
+    ---       ------
+   \   \       \\\\
+   \ 1 \       \\\\
+   \   \         \\\\
+    ---     ------
+    |                           |                        |
+    |                           |                        | 
+    ---                        ---                       ---
+   \   \                      \   \                     \   \
+   \ 2 \                      \   \                     \   \
+   \   \                      \   \                     \   \
+    ---                        ---                       ---
+    |                           |                        |
+    |                           |                        |
