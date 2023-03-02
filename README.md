@@ -1,5 +1,5 @@
 # Circuit-analysis
-我想我已经实现了最难的部分了,剩下的就是代入各种公式和用symsy来解方程了.
+我想我已经实现了我认为最难的找回路部分了,剩下的就是代入各种公式和用symsy来解方程了.
 
 I think I've done the hard part, and all that's left is to plug in the formulas and solve the equations with symsy.
 
