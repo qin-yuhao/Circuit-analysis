@@ -1,5 +1,5 @@
 # Circuit-analysis
-我已经完成部分,剩下的就是代入各种公式和用symsy来解方程了.
+我已经完成较困难部分,剩下的就是代入各种公式和用symsy来解方程了.
 
 I think I've done the hard part, and all that's left is to plug in the formulas and solve the equations with symsy.
 
