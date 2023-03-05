@@ -67,7 +67,7 @@ In the process of code implementation, I encountered many problems, the most pro
 
 Since the simple assignment with = is the address of the variable passed, the list of loop results that should not change also changes. I finally solved this problem by using the.copy() method
 
-4. 学到了什么 What have me learned?
+4. 学到了什么 What have i learned?
 学习了图及其相关的遍历,对队列和栈有了更深的理解
 Learned about graphs and their associated traversals and gained a deeper understanding of queues and stacks
 
